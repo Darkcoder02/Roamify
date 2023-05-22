@@ -11,4 +11,7 @@
     <color name="lightgreen">#8BC34A</color>
     <color name="dark">#040026</color>
     <color name="navbar">#fbe1d5</color>
+    <color name="red">#FF0000</color>
+    <color name="purple">#a020f0</color>
+
 </resources>
